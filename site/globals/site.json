@@ -1,0 +1,37 @@
+{
+    "name": "DeafALIVE",
+    "url": "https://www.deafalive.org",
+    "author": {
+        "name": "DeafALIVE",
+        "email": "info@deafalive.org",
+        "handle": "@deafalive",
+        "avatar": "/images/blog/author.jpg"
+    },
+    "images": {
+        "logo": "/images/logo/deafalive-logo.png",
+        "favicon": "/images/favicon.ico",
+        "twitter": "/images/meta/twitter.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "facebook": "https://www.facebook.com/deafalive.indiana/"
+    },
+    "address": {
+        "street": "1915 W. 18th St.",
+        "city": "Indianapolis",
+        "state": "IN",
+        "postcode": "46202",
+        "country": "US"
+    },
+    "contact": {
+        "phone": "317-644-6206",
+        "email": "info@deafalive.org"
+    },
+    "footer_links": {
+        "About Us": "/about/",
+        "Resources": "/resources/",
+        "Services": "/services/",
+        "Support": "/support/",
+        "Contact": "/contact/"
+    }
+}

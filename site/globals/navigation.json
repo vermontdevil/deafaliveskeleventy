@@ -1,0 +1,28 @@
+{
+    "main": [
+        {
+            "label": "HOME",
+            "url": "/"
+        },
+        {
+            "label": "ABOUT",
+            "url": "/about/"
+        },
+        {
+            "label": "RESOURCES",
+            "url": "/resources/"
+        },
+        {
+            "label": "SERVICES",
+            "url": "/services/"
+        },
+        {
+            "label": "SUPPORT US",
+            "url": "/support/"
+        },
+        {
+            "label": "CONTACT",
+            "url": "/contact/"
+        }
+    ]
+}
