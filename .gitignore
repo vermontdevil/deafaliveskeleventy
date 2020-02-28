@@ -1,4 +1,16 @@
 .DS_Store
 node_modules/
-dist/
 package-lock.json
+css/
+filters/
+images/
+js/
+site/
+resources/
+eleventy.config.js
+mix-manifest.json
+package.json
+README.md 
+robots.txt
+tailwind.config.js
+webpack.mix.js
